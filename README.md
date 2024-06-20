@@ -51,3 +51,18 @@ PythonWeatherApp is a simple console-based application that fetches and displays
     - Enter a city name or ZIP code (or press Enter to use the default location if set).
     - Choose units - 'C' for Celsius or 'F' for Fahrenheit (default is 'C').
     - Choose between current weather or a 7-day forecast.
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or suggestions.
+
+## Acknowledgments
+
+- [OpenWeatherMap](https://openweathermap.org/) for providing the weather data API.
+- [python-dotenv](https://github.com/theskumar/python-dotenv) for managing environment variables.
+EOL
