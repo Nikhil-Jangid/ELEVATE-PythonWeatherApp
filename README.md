@@ -55,7 +55,7 @@ PythonWeatherApp is a simple console-based application that fetches and displays
 
 ## Example
 
-\`\`\`
+\\\
 Enter a city name or ZIP code (or 'exit' to quit, default is your_default_location): New York
 Choose units - 'C' for Celsius or 'F' for Fahrenheit (default is 'C'): C
 Do you want current weather or a 7-day forecast? (Enter 'current' or 'forecast'): forecast
@@ -63,7 +63,7 @@ Do you want current weather or a 7-day forecast? (Enter 'current' or 'forecast')
 2024-06-20 15:00:00 - Clear sky | Temp: 27.5°C | Humidity: 55%
 2024-06-20 18:00:00 - Few clouds | Temp: 26.3°C | Humidity: 60%
 ...
-\`\`\`
+\\\
 
 ## License
 
